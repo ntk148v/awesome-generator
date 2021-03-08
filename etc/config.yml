@@ -1,0 +1,9 @@
+auth:
+  username: test
+  password: secret
+output_file: /tmp/README.md
+topic: golang
+sub_topics:
+  - configurations
+  - authentication
+  - gui
