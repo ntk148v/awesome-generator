@@ -1,1 +1,1 @@
-# golang-template
+# Awesome generator
